@@ -53,7 +53,7 @@ pip install pyperclip
 
 ### Linux Guide (Arch)
 
-If you are on a different Linux distrobution other than Arch, please scroll to the bottom.
+If you are on a different Linux distribution other than Arch, please scroll to the bottom.
 
 1. **Install Python3 and Pip**
 ```
@@ -93,7 +93,7 @@ sudo pacman -S install python-pyperclip
 
 ### Other Distros
 
-The guide for Arch Linux works for most distros that use different package managers such as Ubuntu or Fedora. You only need to replace `pacman -S` with `apt install` or `dnf install` depending on your distrobution.
+The guide for Arch Linux works for most distros that use different package managers such as Ubuntu or Fedora. You only need to replace `pacman -S` with `apt install` or `dnf install` depending on your distribution.
 
 Some packages may be named differently, if this is the case, please look it up.
 
